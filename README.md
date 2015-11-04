@@ -8,4 +8,5 @@ The script is updated and you will get all updates free for a lifetime!
 This script is developed by Sevio Agency for personal and enterprise use.
 www.seviosolutions.com
 
-You can find the script at this URL: http://getpopunder.com
+You can find demo and script here
+CHECK DEMO HERE: http://getpopunder.com
