@@ -10,4 +10,4 @@ www.seviosolutions.com
 
 You can find demo and script here
 
-CHECK DEMO HERE: http://getpopunder.com
+CHECK FOR DEMO HERE: http://getpopunder.com
